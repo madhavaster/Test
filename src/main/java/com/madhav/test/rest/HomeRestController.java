@@ -8,6 +8,6 @@ public class HomeRestController {
 
     @GetMapping
     public String m1(){
-        return "Hello Madhav";
+        return "Hello Hemanth";
     }
 }
